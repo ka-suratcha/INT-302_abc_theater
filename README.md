@@ -1,7 +1,7 @@
 # INT-302_abc_theater
 
 ## 📖 Overview
-This project was created as part of the INT-301 course assignment.  
+This project was created as part of the INT-302: Database System Laboratory.  
 
 The goal is to use the **database system** that you learned in class and in labs, along with the **website development** that you learned in ITE-301. This is because the same professor taught both classes and wanted us to put them together into one project.  
 
