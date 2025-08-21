@@ -28,8 +28,8 @@ I decided to build a **movie booking system** because it is a useful example tha
 
 ---
 
-## 📊 Database relationship diagram
-
+## 📊 Entity relationship diagram
+<img width="1885" height="704" alt="ERD_INT-301_abc_theater" src="https://github.com/user-attachments/assets/49d09f58-9d52-4c41-8a64-dddf9a7a592e" />
 
 ---
 
@@ -41,5 +41,3 @@ I decided to build a **movie booking system** because it is a useful example tha
 - Enhance security with password hashing and prepared statements  
 
 ---
-
-
